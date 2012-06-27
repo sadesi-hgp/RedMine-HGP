@@ -1,4 +1,5 @@
 RedMine-HGP
 ===========
+This is an initiative provided by Junta de Andalucia, that aims to enhance Redmine usage and features with standard and multi-purpose plugins.
 
-RedMine plugins. Project Management
+[See the wiki for details](wiki)
